@@ -1,0 +1,14 @@
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/bin/Debug/net10.0/Project-01-Conversor-de-Temperatura
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/bin/Debug/net10.0/Project-01-Conversor-de-Temperatura.deps.json
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/bin/Debug/net10.0/Project-01-Conversor-de-Temperatura.runtimeconfig.json
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/bin/Debug/net10.0/Project-01-Conversor-de-Temperatura.dll
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/bin/Debug/net10.0/Project-01-Conversor-de-Temperatura.pdb
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/obj/Debug/net10.0/Project-01-Conversor-de-Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/obj/Debug/net10.0/Project-01-Conversor-de-Temperatura.AssemblyInfoInputs.cache
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/obj/Debug/net10.0/Project-01-Conversor-de-Temperatura.AssemblyInfo.cs
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/obj/Debug/net10.0/Project-01-Conversor-de-Temperatura.csproj.CoreCompileInputs.cache
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/obj/Debug/net10.0/Project-01-Conversor-de-Temperatura.dll
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/obj/Debug/net10.0/refint/Project-01-Conversor-de-Temperatura.dll
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/obj/Debug/net10.0/Project-01-Conversor-de-Temperatura.pdb
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/obj/Debug/net10.0/Project-01-Conversor-de-Temperatura.genruntimeconfig.cache
+/home/d3m0n/Public/GitHub/Learning_C#/Project-01-Conversor-de-Temperatura/obj/Debug/net10.0/ref/Project-01-Conversor-de-Temperatura.dll
